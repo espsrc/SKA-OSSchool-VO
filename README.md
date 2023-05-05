@@ -51,7 +51,8 @@ To use this environment in order to play with the Virtual Observatory, click in 
 
 JupyterHub is a third option for creating reproducible environments for scientific software and packages. JupyterHub is a multi-user version of Jupyter Notebook, which allows you to create a shared environment for a group or team. With JupyterHub, each user can have their own environment, with its own set of packages and dependencies, while still sharing resources and collaborating with others. JupyterHub can be installed on a local server or on a cloud platform, such as Google Cloud or Amazon Web Services.
 
-To use this environment, simply click on the link and authenticate. For example, if your name is Manuel and your surname is Parra, you must enter Manuel.Parra in the username and password to be able to access the environment.
+To use this environment, simply click on the below's link and authenticate with your credentials. 
+For example, if your name is `Manuel` and your surname is `Parra`, you must enter `Manuel.Parra` in the username and password to be able to access the environment: 
 
 [JupyterHub @ SPSRC](https://spsrc-jupyter.iaa.csic.es/soos/)
 
