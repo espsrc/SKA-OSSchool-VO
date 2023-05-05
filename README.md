@@ -1,5 +1,8 @@
 # SKA Open Science School - The Virtual Observatory
 
+![imagen](https://user-images.githubusercontent.com/7033451/236428300-a1aa1e81-8caa-4ce2-bfeb-13215a0c872f.png)
+
+
 This repository contains the tools and working environment to follow the workshop on the Virtual Observatory given by Jesús Salgado within the SKA Open Science School: https://www.granadacongresos.com/skaopenscience
 
 When working with scientific software and packages, it is important to have a reproducible and easily accessible environment. There are several ways to achieve this, and three popular options are using Python environments, BinderHub, and JupyterHub.
