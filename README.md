@@ -1,6 +1,6 @@
 # SKA Open Science School - The Virtual Observatory
+![imagen](https://user-images.githubusercontent.com/7033451/236428499-32af9f82-7bf5-4128-a8af-b935e5b4a337.png)
 
-![imagen](https://user-images.githubusercontent.com/7033451/236428300-a1aa1e81-8caa-4ce2-bfeb-13215a0c872f.png)
 
 
 This repository contains the tools and working environment to follow the workshop on the Virtual Observatory given by Jesús Salgado within the SKA Open Science School: https://www.granadacongresos.com/skaopenscience
