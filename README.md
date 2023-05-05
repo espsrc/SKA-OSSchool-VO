@@ -2,8 +2,9 @@
 ![imagen](https://user-images.githubusercontent.com/7033451/236428499-32af9f82-7bf5-4128-a8af-b935e5b4a337.png)
 
 
+This repository contains the tools and working environment to follow the workshop on the Virtual Observatory led by Jesús Salgado within the SKA Open Science School: https://www.granadacongresos.com/skaopenscience
 
-This repository contains the tools and working environment to follow the workshop on the Virtual Observatory given by Jesús Salgado within the SKA Open Science School: https://www.granadacongresos.com/skaopenscience
+The slides of this talk are available at https://docs.google.com/presentation/d/10EC7POY7ueFcOrtmap5OBOwP9zjyMELKJiFA43JemfY/edit#slide=id.g2398ceb5730_1_32.
 
 When working with scientific software and packages, it is important to have a reproducible and easily accessible environment. There are several ways to achieve this, and three popular options are using Python environments, BinderHub, and JupyterHub.
 
