@@ -40,13 +40,15 @@ This will activate the virtual environment and any packages you install will be 
 
 ``jupyter-lab``
 
+7. Then access to the `pleiades.ipynb`
+
 ## Virtual Observatory from a BinderHub Environment
 
 Binder is another option for creating reproducible environments for scientific software and packages. Binder allows you to turn a repository containing Jupyter notebooks or Python scripts into an interactive environment, which can be accessed and run through a web browser. With Binder, you can easily share your work with others, without them needing to install any software or dependencies on their own system. This can be particularly useful for workshops or tutorials like this on Virtual Observatory.
 
 To use this environment in order to play with the Virtual Observatory, click in the next link:
 
-[BinderHub for the SKA OpenScience School - Virtual Observatory](https://mybinder.org/v2/gh/spsrc/SKA-OSSchool-VO/HEAD?labpath=index.ipynb)
+[BinderHub for the SKA OpenScience School - Virtual Observatory](https://mybinder.org/v2/gh/spsrc/SKA-OSSchool-VO/HEAD?labpath=pleiades.ipynb)
 
 ## Virtual Observatory from a JupyterHub within the Spanish SKA Regional Centre infrastructure
 
