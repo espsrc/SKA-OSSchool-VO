@@ -4,6 +4,10 @@ This repository contains the tools and working environment to follow the worksho
 
 When working with scientific software and packages, it is important to have a reproducible and easily accessible environment. There are several ways to achieve this, and three popular options are using Python environments, BinderHub, and JupyterHub.
 
+* [Virtual Observatory workshop from a Python Environment](#virtual-observatory-from-a-python-environment)
+* [Virtual Observatory workshop from a BinderHub Environment](#virtual-observatory-from-a-binderhub-environment)
+* [Virtual Observatory workshop from a JupyterHub within the Spanish SKA Regional Centre infrastructure](#virtual-observatory-from-a-jupyterhub-within-the-spanish-ska-regional-centre-infrastructure)
+
 ## Virtual Observatory from a Python Environment
 
 Python environments, such as conda or virtualenv, allow you to create a separate environment for each project or task, with its own set of packages and dependencies. This ensures that each project is self-contained and reproducible, without conflicts between packages or libraries. Python environments can be easily created and managed using command-line tools, and they can be shared with collaborators or published for others to use. With conda, for example, you can create an environment file that lists all the packages and dependencies needed for your project, and then share it with others, who can easily create the same environment on their own system.
