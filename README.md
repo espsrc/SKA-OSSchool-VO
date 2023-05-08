@@ -4,12 +4,14 @@
 
 This repository contains the tools and working environment to follow the workshop on the Virtual Observatory led by Jesús Salgado within the SKA Open Science School: https://www.granadacongresos.com/skaopenscience
 
-The slides of this talk are available at https://docs.google.com/presentation/d/10EC7POY7ueFcOrtmap5OBOwP9zjyMELKJiFA43JemfY/edit#slide=id.g2398ceb5730_1_32.
+The slides of this talk are available at 
+https://docs.google.com/presentation/d/10EC7POY7ueFcOrtmap5OBOwP9zjyMELKJiFA43JemfY/edit#slide=id.g2398ceb5730_1_32.
 
 When working with scientific software and packages, it is important to have a reproducible and easily accessible environment. There are several ways to achieve this, and three popular options are using Python environments, BinderHub, and JupyterHub.
 
 * [Virtual Observatory workshop from a Python Environment](#virtual-observatory-from-a-python-environment)
 * [Virtual Observatory workshop from a BinderHub Environment](#virtual-observatory-from-a-binderhub-environment)
+* [Virtual Observatory from a Google Colab Notebook](#virtual-observatory-from-a-google-colab-notebook)
 * [Virtual Observatory workshop from a JupyterHub within the Spanish SKA Regional Centre infrastructure](#virtual-observatory-from-a-jupyterhub-within-the-spanish-ska-regional-centre-infrastructure)
 
 ## Virtual Observatory from a Python Environment
@@ -50,12 +52,21 @@ To use this environment in order to play with the Virtual Observatory, click in 
 
 [BinderHub for the SKA OpenScience School - Virtual Observatory](https://mybinder.org/v2/gh/spsrc/SKA-OSSchool-VO/HEAD?labpath=pleiades.ipynb)
 
+
+## Virtual Observatory from a Google Colab Notebook
+
+BinderHub is a public service that have several limitations. One of them is related with the number of users that can access to the repository to build a BinderHub during a period of time. Once these limits are reached you can not open this BinderHub. To avoid it, we've included a more stable solution by including this Virtual Observatory Notebook in a Google Colab service:
+
+https://colab.research.google.com/drive/10eSWWWtjmspTW_cNhnvNp0HmHaZHb-6y?usp=sharing
+
+**Click in this link and then click in "Connect", to allocate computing resources for this Notebook**
+
+
 ## Virtual Observatory from a JupyterHub within the Spanish SKA Regional Centre infrastructure
 
-JupyterHub is a third option for creating reproducible environments for scientific software and packages. JupyterHub is a multi-user version of Jupyter Notebook, which allows you to create a shared environment for a group or team. With JupyterHub, each user can have their own environment, with its own set of packages and dependencies, while still sharing resources and collaborating with others. JupyterHub can be installed on a local server or on a cloud platform, such as Google Cloud or Amazon Web Services.
+JupyterHub is a fourth option for creating reproducible environments for scientific software and packages. JupyterHub is a multi-user version of Jupyter Notebook, which allows you to create a shared environment for a group or team. With JupyterHub, each user can have their own environment, with its own set of packages and dependencies, while still sharing resources and collaborating with others. JupyterHub can be installed on a local server or on a cloud platform, such as Google Cloud or Amazon Web Services.
 
-To use this environment, simply click on the below's link and authenticate with your credentials. 
-For example, if your name is `Manuel` and your surname is `Parra`, you must enter `Manuel.Parra` in the username and password to be able to access the environment: 
+To use this environment, simply click on the below's link and authenticate with your credentials. In this case use your registration email as username and password.
 
 [JupyterHub @ SPSRC](https://spsrc-jupyter.iaa.csic.es/soos/)
 
