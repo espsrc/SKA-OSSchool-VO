@@ -51,7 +51,7 @@ Binder is another option for creating reproducible environments for scientific s
 
 To use this environment in order to play with the Virtual Observatory, click in the next link:
 
-[BinderHub for the SKA OpenScience School - Virtual Observatory](https://mybinder.org/v2/gh/spsrc/SKA-OSSchool-VO/HEAD?labpath=pleiades.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spsrc/SKA-OSSchool-VO/HEAD)
 
 
 ## Virtual Observatory from a Google Colab Notebook
