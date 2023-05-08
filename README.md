@@ -5,6 +5,7 @@
 This repository contains the tools and working environment to follow the workshop on the Virtual Observatory led by Jesús Salgado within the SKA Open Science School: https://www.granadacongresos.com/skaopenscience
 
 The slides of this talk are available at 
+
 https://docs.google.com/presentation/d/10EC7POY7ueFcOrtmap5OBOwP9zjyMELKJiFA43JemfY/edit#slide=id.g2398ceb5730_1_32.
 
 When working with scientific software and packages, it is important to have a reproducible and easily accessible environment. There are several ways to achieve this, and three popular options are using Python environments, BinderHub, and JupyterHub.
@@ -59,7 +60,7 @@ BinderHub is a public service that have several limitations. One of them is rela
 
 https://colab.research.google.com/drive/10eSWWWtjmspTW_cNhnvNp0HmHaZHb-6y?usp=sharing
 
-**Click in this link and then click in "Connect", to allocate computing resources for this Notebook**
+*Click in this link and then click in "Connect", to allocate computing resources for this Notebook*
 
 
 ## Virtual Observatory from a JupyterHub within the Spanish SKA Regional Centre infrastructure
